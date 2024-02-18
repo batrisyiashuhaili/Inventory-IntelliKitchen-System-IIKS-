@@ -2,6 +2,8 @@
 
 Inventory IntelliKitchen System
 
+# Usage
+
 - **User Actions:**
   1. Users can add ingredients from their pantry into the system.
   2. Users also have the option to remove ingredients from the system.
