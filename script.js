@@ -113,7 +113,7 @@ function update_recipe(id) {
 function delete_recipe(id) {
 
     if (confirm("Do you confirm to delete this recipe?")) {
-        window.location = "database\delete-recipe.php?recipe=" + id
+        window.location = "database/delete-recipe.php?recipe=" + id
     }
 }
 
