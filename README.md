@@ -2,12 +2,6 @@
 
 Inventory IntelliKitchen System
 
-## Installation
-
-Provide instructions on how to install and set up your project.
-
-## Usage
-
 - **User Actions:**
   1. Users can add ingredients from their pantry into the system.
   2. Users also have the option to remove ingredients from the system.
